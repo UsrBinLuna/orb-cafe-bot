@@ -19,13 +19,13 @@ Linux
 # How to download and run the bot
 1. Download all dependencies 
 2. Run `git clone https://github.com/rogerpanza/orb-cafe-bot`, if you don't have Git installed, download it from https://git-scm.com/ or if on Linux, run
-Debian/Ubuntu based
+- Debian/Ubuntu based
 `sudo apt-get install git`
-Arch based
+- Arch based
 `sudo pacman -S git`
-Fedora
+- Fedora
 `sudo dnf install git`
-OpenSUSE
+- OpenSUSE
 `sudo zypper in git`
 
 3. Install Discord.JS
