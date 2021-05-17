@@ -7,13 +7,13 @@ https://nodejs.org/en/ (It will download NodeJS and npm)
 
 Linux
 
-Debian based
+- Debian based
 `sudo apt-get install nodejs npm`
-Arch based
+- Arch based
 `sudo pacman -S nodejs npm`
-Fedora
+- Fedora
 `sudo dnf install nodejs npm`
-OpenSUSE
+- OpenSUSE
 `sudo zypper in nodejs npm`
 
 # How to download and run the bot
