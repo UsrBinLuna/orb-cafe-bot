@@ -18,3 +18,4 @@ features = [
   "rustls_backend",
   "utils",
 ]
+ron = "0.5.1"
