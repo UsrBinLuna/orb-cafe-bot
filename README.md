@@ -1,7 +1,7 @@
 # Orbital Cafe bot
 This is the bot for the Orbital Cafe Discord server
 
-# # Dependencies
+# Dependencies
 Windows/MacOS
 https://nodejs.org/en/ (It will download NodeJS and npm)
 
@@ -16,7 +16,7 @@ Fedora
 OpenSUSE
 `sudo zypper in nodejs npm`
 
-# # How to download and run the bot
+# How to download and run the bot
 1. Download all dependencies 
 2. Run `git clone https://github.com/rogerpanza/orb-cafe-bot`, if you don't have Git installed, download it from https://git-scm.com/ or if on Linux, run
 Debian/Ubuntu based
