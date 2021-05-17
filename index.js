@@ -25,6 +25,6 @@ client.on('message', message => {
     if (commandName.guildOnly && message.channel.type === 'dm') {
         return;
     }
-  }) 
+}) 
 
 client.login(token);
