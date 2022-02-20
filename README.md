@@ -1,3 +1,5 @@
+# NOTE: This repo is outdated! The bot is made in Discord.JS v12, so it WON'T work on newer versions as the syntax has changed!
+
 # Orbital Cafe bot
 This is the bot for the Orbital Cafe Discord server
 
